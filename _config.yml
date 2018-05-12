@@ -17,8 +17,8 @@ lang: en-US
 title: My Awesome Site
 email:
 description:
-baseurl: ""
-url:  "https://soohyun.github.io"
+baseurl: '/basic'
+url:  ttps://mmistakes.github.io/jekyll-theme-basically-basic/
 author:
   name:
   twitter:
